@@ -30,3 +30,14 @@ ok let us see th code
 #### and last one is DELETING  works like GET(id) and using method **REMOVE** 
   
 ![localhost_44319_swagger_index html](https://user-images.githubusercontent.com/95775818/161424539-ec6fd43f-206f-41ed-9f23-8d570c5dea3c.png)
+  
+  
+# FEETBACKS
+
+  ![image](https://user-images.githubusercontent.com/95775818/161426546-5464eb88-3986-4165-bf20-dc37a9b8f115.png)
+  ![image](https://user-images.githubusercontent.com/95775818/161426551-dc561cb5-97f9-47c7-a138-d6523c434e05.png)
+  ![image](https://user-images.githubusercontent.com/95775818/161426777-ae9152a5-d6f3-4d5b-947d-c8e3bde0ca28.png)
+  ![image](https://user-images.githubusercontent.com/95775818/161429149-bb23f338-01a7-40d3-a761-e3391d4704df.png)
+
+
+
